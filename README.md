@@ -1,2 +1,2 @@
 # DiplomadoJava-IntroJEE
-Primer proyecto.
+Primer proyecto Diplomado programación Web Java JEE-Universidad de Manizales.
